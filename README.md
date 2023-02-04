@@ -1,5 +1,6 @@
 # RAT
 FUD RAT which bypass every Antivirus, everytime someone gets it, I will change the code.
+ONLY FOR LEGAL PURPOSES!!!!!
 This RAT will be FUD even if someone uploads the RAT to virus-total, it will be fud because the code is completly different.
 Its an Multi-Client Rat, without bugs or other problems, I will add functions like desktop sharing, keylogger and other stuff, every thing you want.
 Write me an email to buy the Rat cclp111@proton.me
